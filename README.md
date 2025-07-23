@@ -60,12 +60,4 @@ The dataset includes extracted features from human voice recordings, such as:
 | F1 Score               | Excellent          |
 | Silhouette Score       | ~0.45 (for KMeans) |
 
----
 
-## 🧪 How to Run
-
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/yourusername/voice-gender-classification.git
-cd voice-gender-classification
